@@ -1,3 +1,7 @@
+# Thanks TraversyMedia
+
+here is the [link for his crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=1962s&ab_channel=TraversyMedia)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
